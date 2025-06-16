@@ -3,7 +3,7 @@
 This portfolio showcases a customer churn analysis project using **Excel** and **Tableau Public**.
 
 ## 📊 Project: Customer Churn Analysis
-
+This project analyzes customer churn patterns by tenure group to help telecom providers retain high-risk customers. It uses Excel for analysis and Tableau Public to build a visual dashboard showing churn trends across customer lifecycles.
 **Goal:**  
 Identify high-risk churn segments and provide actionable retention insights.
 
@@ -21,7 +21,7 @@ Telco Customer Churn dataset — [Kaggle](https://www.kaggle.com/blastchar/telco
 - `Customer_Churn_Analysis.xlsx` – Cleaned dataset, summary metrics, and pivot charts
 - `Customer_Churn_Dashboard.png` – Tableau dashboard snapshot
 - `Churned_by_Tenure.png` – Visual breakdown by tenure
-- Tableau dashboard (public link) → **[View on Tableau Public](https://public.tableau.com/app/profile/harshitha.kotikalapudi/viz/Customer_Churn_Dashboard/ChurnedvsNotChurnedbyTenure)**
+- Tableau dashboard (public link) → **[View on Tableau Public](https://public.tableau.com/app/profile/harshitha.kotikalapudi/viz/CustomerChurnAnalysisDashboard_17501020332610/Dashboard1?publish=yes)**
 
 ---
 
